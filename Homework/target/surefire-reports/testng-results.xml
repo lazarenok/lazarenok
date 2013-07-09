@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FirstSuite" duration-ms="23995" started-at="2013-07-09T22:46:46Z" finished-at="2013-07-09T22:47:10Z">
+    <groups>
+    </groups>
+    <test name="SecondTest" duration-ms="23995" started-at="2013-07-09T22:46:46Z" finished-at="2013-07-09T22:47:10Z">
+      <class name="Homework.SecondTest">
+        <test-method status="PASS" signature="iniDriver()" name="iniDriver" is-config="true" duration-ms="6837" started-at="2013-07-09T22:46:39Z" finished-at="2013-07-09T22:46:46Z">
+        </test-method>
+        <test-method status="PASS" signature="MenuTest()" name="MenuTest" duration-ms="23990" started-at="2013-07-09T22:46:46Z" finished-at="2013-07-09T22:47:10Z">
+        </test-method>
+        <test-method status="PASS" signature="destruct()" name="destruct" is-config="true" duration-ms="160" started-at="2013-07-09T22:47:10Z" finished-at="2013-07-09T22:47:10Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
